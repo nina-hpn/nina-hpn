@@ -8,18 +8,18 @@
 </div>
 
 
-🔭 I’m currently working on *software* and *data visualization*<br>
+🔭 I’m currently working on *software* and *data engineering*<br>
 ❤️ I love sharing my stories and lessons I have learned<br>
-📖 I’m currently learning AWS, C#, Python, and how to be a better person in life<br>
+📖 I’m currently learning everything, i-JEPA and NLP recently, and how to be a better person in life<br>
 💬 Ask me about every project that I have worked on and if you have a dream to become a startup like me, we can do it together, like right **NOW** <br>
-⚡ Fun fact about me is that you can always find me sleeping :> and joking too <br>
+⚡ Fun fact about me is that you can always find me sleeping :> and joking too. UPDATED: I don't have time to sleep these days :( <br>
 📲 Call me if you want to create a mechanical keyboard, I can help with that
 
 ## 🌐 Socials:
 Find me on Linkedin and Instagram. We can chat about food, pet, and definitely software development and machine learning problem.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhuwlaftooi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ninahuynhhcm)
 [![Github](https://img.shields.io/badge/Github-%23323330.svg?logo=Github&logoColor=white)](https://github.com/nina-hpn)
 
 <br>
@@ -88,7 +88,6 @@ Find me on Linkedin and Instagram. We can chat about food, pet, and definitely s
 
 ## ❓What I try to be a part of recently
 
-Currently, I am into Cloud, Backend developing, and integrating machine learning into real-life applications.
+Currently, I am into NLP, CV, doing data, and thinking about how to make an impact on the world.
 
-Also, I try to share my knowledge with some of my colleagues and junior as to how to be a good performer at school as well as what I am able to learn in professional workspaces.
 
